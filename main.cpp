@@ -2,7 +2,6 @@
 
 int main()
 {
-    printf("%s\n", "v.2022-06-19_1015");
-    printf("%s\n", "changed at 2022-06-22_1405");
-    return 0;
+  printf("%s\n", "main at 2023-04-04 18:25:00");
+  return 0;
 }
